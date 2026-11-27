@@ -1,3 +1,4 @@
+set -e
 ENV_NAME="test_env"
 
 conda update -y conda
